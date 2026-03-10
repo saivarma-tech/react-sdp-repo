@@ -1,6 +1,5 @@
 import { BrowserRouter} from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import './App.css';
 import MainNavBar from './pages/MainNavBar';
 import AdminNavBar from './admin/AdminNavBar';
 import ManagerNavBar from './manager/ManagerNavBar';
